@@ -1,1 +1,2 @@
 Hi, this is a short message for the git repository
+These are the changes
